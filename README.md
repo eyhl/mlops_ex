@@ -1,2 +1,2 @@
 # mlops_ex
-exercises for moles course at Dtu
+exercises for mlops course at Dtu
